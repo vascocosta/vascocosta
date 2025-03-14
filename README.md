@@ -1,6 +1,4 @@
-## Hi there 👋
-[![Vasco's GitHub stats](https://github-readme-stats.vercel.app/api?username=vascocosta)](https://github.com/anuraghazra/github-readme-stats)
-
+![Vasco's GitHub stats](https://github-readme-stats.vercel.app/api?username=vascocosta&show_icons=true&theme=radical)
 <!--
 **vascocosta/vascocosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
