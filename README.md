@@ -1,5 +1,4 @@
 ![Vasco's GitHub stats](https://github-readme-stats.vercel.app/api?username=vascocosta&show_icons=true&layout=compact&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vascocosta&langs_count=8&layout=compact&theme=dark)
 
 <!--
